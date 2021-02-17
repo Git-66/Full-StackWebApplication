@@ -1,0 +1,44 @@
+.card_zero {
+    color: blue;
+    font-size: 0.75em;
+    float: right;
+}
+
+.card_first {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.card_second {
+    background-color: rgb(238, 237, 237);
+    color: rgb(84, 82, 82);
+    font-weight: bold;
+    font-size: 0.9em;  
+}
+
+.card_third {
+    color: red;
+    font-size: 0.7em;  
+}
+
+.card_fourth {
+    size: 1em;
+    font-weight: bold;
+    font-size: 0.7em;
+    
+}
+
+/* .ant-select-dropdown-menu {
+    background: #1F1F26;
+    border: solid 1px #32323a;
+} */
+
+/* .ant-card-bordered {
+    border: 2px;
+} */
+
+/* .fan-card-checkbox {
+    width: 2px;
+    height: 2px;
+} */

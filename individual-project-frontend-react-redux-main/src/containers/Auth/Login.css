@@ -1,0 +1,15 @@
+.login-form {
+    width: 300px;
+    margin: 0 auto;
+    /* background: linear-gradient(to right, white, rgb(110, 168, 226)); */
+}
+
+.login-form-button {
+    width: 75px;
+    /* color: royalblue; */
+    float: right;
+    /* background: linear-gradient(to right, white, rgb(110, 168, 226)); */
+}
+
+
+

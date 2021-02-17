@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+@import "./containers/TopBar/TopBar.css";
+@import "./containers/Main/Main.css";
+@import "./containers/Auth/Login.css";
+@import "./containers/Auth/Register.css";
+@import "./containers/MainLogo/MainLogo.css";
+@import "./containers/Search/Search.css";
+@import "./containers/FansList/FansList.css";
+@import "./containers/FanFilter/FanFilter.css";
+@import "./containers/FanCard/FanCard.css";
+
+
+.App {
+  text-align: center;
+}
+
+.ant-form-item {
+  margin-bottom: 2px;
+}

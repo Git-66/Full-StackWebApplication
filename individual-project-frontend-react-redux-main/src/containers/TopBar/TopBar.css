@@ -1,0 +1,22 @@
+.App-logo {
+    /*animation: App-logo-spin infinite 20s linear;*/
+    pointer-events: none;
+    height: 50px;
+    float: left;
+}
+
+.App-header {
+    background: linear-gradient(to right, white, #f5f7f9);
+    color: white;
+    height: 100px;
+ 
+}
+
+
+
+.logout {
+    float: right;
+    padding-top: 13px;
+    padding-right: 13px;
+    color: black;
+}
